@@ -1,4 +1,4 @@
-# StreamLit_Quadratic_Solver
+# StreamLit-Quadratic-Solver
 
 StreamLit Quadratic Solver
 
@@ -18,8 +18,8 @@ This project is a simple web application to solve quadratic equations using Stre
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/StreamLit_Quadratic_Solver.git
-    cd StreamLit_Quadratic_Solver
+    git clone https://github.com/yourusername/StreamLit-Quadratic-Solver.git
+    cd StreamLit-Quadratic-Solver
     ```
 
 2. Create a virtual environment and activate it:
